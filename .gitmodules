@@ -7,3 +7,12 @@
 [submodule "algorithms-on-graphs"]
 	path = algorithms-on-graphs
 	url = https://github.com/burakataly/algorithms-on-graphs---coursera.git
+[submodule "data-structures---coursera"]
+	path = data-structures---coursera
+	url = https://github.com/burakataly/data-structures---coursera.git
+[submodule "algorithmic-toolbox---coursera"]
+	path = algorithmic-toolbox---coursera
+	url = https://github.com/burakataly/algorithmic-toolbox---coursera.git
+[submodule "algorithms-on-graphs---coursera"]
+	path = algorithms-on-graphs---coursera
+	url = https://github.com/burakataly/algorithms-on-graphs---coursera.git
