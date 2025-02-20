@@ -13,7 +13,7 @@ The specialization allows the use of any programming language, and I chose **C**
    - [Certificate](https://coursera.org/share/dc597bf1d632a8f4cb0ccc504f41d689)
 
 2. **Data Structures**  
-   - Topics: disjoint sets, heaps, hash tables, balanced BSTs (AVL, Splay) and more.  
+   - Topics: stack, queue, disjoint sets, heap, hash tables, balanced BSTs (AVL, Splay) and more.  
    - [Certificate](https://coursera.org/share/041e160a7d75080be6df7a20ea1ffa30)
 
 3. **Algorithms on Graphs**  
